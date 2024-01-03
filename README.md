@@ -1,2 +1,12 @@
-# canvas-drawing-app
-This simple Canvas Drawing App is a lightweight web-based tool that enables users to draw and doodle effortlessly. With an easy-to-use interface, users can select a brush size, pick a color, and start creating digital art on the canvas.
+# Canvas Drawing App
+
+The Canvas Drawing App is a lightweight web-based tool that allows users to draw and doodle on a digital canvas. It provides a simple and intuitive interface for creating digital art.
+
+## Features
+
+- **Brush Size and Color Selection:** Adjust the brush size using the increase and decrease buttons, and choose a color with the color picker.
+  
+- **Real-time Drawing:** Experience responsive drawing with instant rendering on the canvas for quick sketches and creative expression.
+
+- **Clear Canvas:** Easily clear the entire canvas with the click of a button to start a new drawing.
+
